@@ -1,0 +1,14 @@
+c:\users\techi\documents\visual studio 2015\Projects\Grp1_assign1\Grp1_assign1\bin\Debug\Grp1_assign1.exe.config
+C:\Users\techi\Documents\Visual Studio 2015\Projects\Grp1_assign1\Grp1_assign1\bin\Debug\Grp1_assign1.exe
+C:\Users\techi\Documents\Visual Studio 2015\Projects\Grp1_assign1\Grp1_assign1\bin\Debug\Grp1_assign1.pdb
+C:\Users\techi\Documents\Visual Studio 2015\Projects\Grp1_assign1\Grp1_assign1\obj\Debug\MainWindow.g.cs
+C:\Users\techi\Documents\Visual Studio 2015\Projects\Grp1_assign1\Grp1_assign1\obj\Debug\App.g.cs
+C:\Users\techi\Documents\Visual Studio 2015\Projects\Grp1_assign1\Grp1_assign1\obj\Debug\Grp1_assign1_MarkupCompile.cache
+C:\Users\techi\Documents\Visual Studio 2015\Projects\Grp1_assign1\Grp1_assign1\obj\Debug\Grp1_assign1_MarkupCompile.lref
+C:\Users\techi\Documents\Visual Studio 2015\Projects\Grp1_assign1\Grp1_assign1\obj\Debug\MainWindow.baml
+C:\Users\techi\Documents\Visual Studio 2015\Projects\Grp1_assign1\Grp1_assign1\obj\Debug\Grp1_assign1.g.resources
+C:\Users\techi\Documents\Visual Studio 2015\Projects\Grp1_assign1\Grp1_assign1\obj\Debug\Grp1_assign1.Properties.Resources.resources
+C:\Users\techi\Documents\Visual Studio 2015\Projects\Grp1_assign1\Grp1_assign1\obj\Debug\Grp1_assign1.csproj.GenerateResource.Cache
+C:\Users\techi\Documents\Visual Studio 2015\Projects\Grp1_assign1\Grp1_assign1\obj\Debug\Grp1_assign1.exe
+C:\Users\techi\Documents\Visual Studio 2015\Projects\Grp1_assign1\Grp1_assign1\obj\Debug\Grp1_assign1.pdb
+C:\Users\techi\Documents\Visual Studio 2015\Projects\Grp1_assign1\Grp1_assign1\obj\Debug\Grp1_assign1.csprojResolveAssemblyReference.cache
