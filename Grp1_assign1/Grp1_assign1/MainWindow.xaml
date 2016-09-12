@@ -23,9 +23,7 @@
         <Button Content="dexter" Name="btn_dexter" Grid.Column="0" Grid.Row="1" FontSize="36" Click="btn_dexter_Click" Margin="100,80,100,80"/>
         <Button Content="medium" Name="btn_medium" Grid.Column="0" Grid.Row="2" FontSize="36" Click="btn_medium_Click" Margin="100,80,100,80"/>
 
-        <Label Content="left" Name="lbl_left" Grid.Column="1" Grid.Row="1" FontSize="36" Visibility="Hidden" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-        <Label Content="right" Name="lbl_right" Grid.Column="1" Grid.Row="1" FontSize="36" Visibility="Hidden" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-        <Label Content="center" Name="lbl_center" Grid.Column="1" Grid.Row="1" FontSize="36" Visibility="Hidden" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <Label Content="Translation goes here" Name="lbl_center" Grid.Column="1" Grid.Row="1" FontSize="36" HorizontalAlignment="Center" VerticalAlignment="Center"/>
         
     </Grid>
 </Window>
