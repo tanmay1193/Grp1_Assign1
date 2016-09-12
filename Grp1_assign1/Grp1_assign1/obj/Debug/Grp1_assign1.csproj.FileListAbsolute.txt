@@ -12,3 +12,17 @@ C:\Users\techi\Documents\Visual Studio 2015\Projects\Grp1_assign1\Grp1_assign1\o
 C:\Users\techi\Documents\Visual Studio 2015\Projects\Grp1_assign1\Grp1_assign1\obj\Debug\Grp1_assign1.exe
 C:\Users\techi\Documents\Visual Studio 2015\Projects\Grp1_assign1\Grp1_assign1\obj\Debug\Grp1_assign1.pdb
 C:\Users\techi\Documents\Visual Studio 2015\Projects\Grp1_assign1\Grp1_assign1\obj\Debug\Grp1_assign1.csprojResolveAssemblyReference.cache
+G:\Classes\PROG8010-ProgSoftDevTech\Assignments\Group1\Grp1_Assign1\Grp1_assign1\Grp1_assign1\bin\Debug\Grp1_assign1.exe.config
+G:\Classes\PROG8010-ProgSoftDevTech\Assignments\Group1\Grp1_Assign1\Grp1_assign1\Grp1_assign1\bin\Debug\Grp1_assign1.exe
+G:\Classes\PROG8010-ProgSoftDevTech\Assignments\Group1\Grp1_Assign1\Grp1_assign1\Grp1_assign1\bin\Debug\Grp1_assign1.pdb
+G:\Classes\PROG8010-ProgSoftDevTech\Assignments\Group1\Grp1_Assign1\Grp1_assign1\Grp1_assign1\obj\Debug\Grp1_assign1.csprojResolveAssemblyReference.cache
+G:\Classes\PROG8010-ProgSoftDevTech\Assignments\Group1\Grp1_Assign1\Grp1_assign1\Grp1_assign1\obj\Debug\MainWindow.g.cs
+G:\Classes\PROG8010-ProgSoftDevTech\Assignments\Group1\Grp1_Assign1\Grp1_assign1\Grp1_assign1\obj\Debug\App.g.cs
+G:\Classes\PROG8010-ProgSoftDevTech\Assignments\Group1\Grp1_Assign1\Grp1_assign1\Grp1_assign1\obj\Debug\Grp1_assign1_MarkupCompile.cache
+G:\Classes\PROG8010-ProgSoftDevTech\Assignments\Group1\Grp1_Assign1\Grp1_assign1\Grp1_assign1\obj\Debug\Grp1_assign1_MarkupCompile.lref
+G:\Classes\PROG8010-ProgSoftDevTech\Assignments\Group1\Grp1_Assign1\Grp1_assign1\Grp1_assign1\obj\Debug\MainWindow.baml
+G:\Classes\PROG8010-ProgSoftDevTech\Assignments\Group1\Grp1_Assign1\Grp1_assign1\Grp1_assign1\obj\Debug\Grp1_assign1.g.resources
+G:\Classes\PROG8010-ProgSoftDevTech\Assignments\Group1\Grp1_Assign1\Grp1_assign1\Grp1_assign1\obj\Debug\Grp1_assign1.Properties.Resources.resources
+G:\Classes\PROG8010-ProgSoftDevTech\Assignments\Group1\Grp1_Assign1\Grp1_assign1\Grp1_assign1\obj\Debug\Grp1_assign1.csproj.GenerateResource.Cache
+G:\Classes\PROG8010-ProgSoftDevTech\Assignments\Group1\Grp1_Assign1\Grp1_assign1\Grp1_assign1\obj\Debug\Grp1_assign1.exe
+G:\Classes\PROG8010-ProgSoftDevTech\Assignments\Group1\Grp1_Assign1\Grp1_assign1\Grp1_assign1\obj\Debug\Grp1_assign1.pdb

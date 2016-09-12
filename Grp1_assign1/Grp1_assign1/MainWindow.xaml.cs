@@ -30,25 +30,19 @@ namespace Grp1_assign1
         //When this Button is clicked, it shows english word for Sinister
         private void btn_sinister_Click(object sender, RoutedEventArgs e)
         {
-            lbl_left.Visibility = Visibility.Visible;
-            lbl_right.Visibility = Visibility.Hidden;
-            lbl_center.Visibility = Visibility.Hidden;
+            lbl_center.Content = "Left";
         }
 
         //When this Button is clicked, it shows english word for Dexter
         private void btn_dexter_Click(object sender, RoutedEventArgs e)
         {
-            lbl_left.Visibility = Visibility.Hidden;
-            lbl_right.Visibility = Visibility.Visible;
-            lbl_center.Visibility = Visibility.Hidden;
+            lbl_center.Content = "Right";
         }
 
         //When this Button is clicked, it shows english word for Medium
         private void btn_medium_Click(object sender, RoutedEventArgs e)
         {
-            lbl_left.Visibility = Visibility.Hidden;
-            lbl_right.Visibility = Visibility.Hidden;
-            lbl_center.Visibility = Visibility.Visible;
+            lbl_center.Content = "Center";
         }
     }
 }
