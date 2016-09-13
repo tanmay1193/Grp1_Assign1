@@ -1,4 +1,13 @@
-﻿/*This Program displays english word for Latin word
+﻿/*Assignment 1_Group 1
+ * Group Members :  1. Oleksandr Rudavka
+ *                  2. Jonathan Nagata
+ *                  3. Niral Gandhi
+ *                  4. Tanmay Teckchandani
+ *                  5. Priya Tharuman
+ *                  6. Krishna Kanhaiya
+ *                  7. Lucas Currah
+ *  
+ * This Program displays english word for Latin word
 */
 using System;
 using System.Collections.Generic;

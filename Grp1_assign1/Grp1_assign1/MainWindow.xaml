@@ -6,24 +6,31 @@
         xmlns:local="clr-namespace:Grp1_assign1"
         mc:Ignorable="d"
         Title="Translation : Latin To English" Height="806.25" Width="1103.125">
+    
+    <!--Main Grid-->
     <Grid>
 
+        <!--Grid Columns-->
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*"/>
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
 
+        <!--Grid Rows-->
         <Grid.RowDefinitions>
             <RowDefinition Height="*"/>
             <RowDefinition Height="*"/>
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
 
+        <!--Buttons-->
         <Button Content="sinister" Name="btn_sinister" Grid.Column="0" Grid.Row="0" FontSize="36" Click="btn_sinister_Click" Margin="100,80,100,80"/>
         <Button Content="dexter" Name="btn_dexter" Grid.Column="0" Grid.Row="1" FontSize="36" Click="btn_dexter_Click" Margin="100,80,100,80"/>
         <Button Content="medium" Name="btn_medium" Grid.Column="0" Grid.Row="2" FontSize="36" Click="btn_medium_Click" Margin="100,80,100,80"/>
 
+        <!--Label-->
         <Label Content="Translation goes here" Name="lbl_center" Grid.Column="1" Grid.Row="1" FontSize="36" HorizontalAlignment="Center" VerticalAlignment="Center"/>
         
     </Grid>
+    
 </Window>
